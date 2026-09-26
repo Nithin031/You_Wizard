@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+output/raw/*.json
+output/raw/cache/*.json
+output/answers/*.json
+output/sources/*.json
+output/final/*.md
+output/progress.json
+logs/*.log
